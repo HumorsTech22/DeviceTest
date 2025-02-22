@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DeviceTest</string>
+    <string name="enter_tester_name">Enter tester name</string>
+    <string name="start">Start</string>
+    <string name="i2c">i2c</string>
+    <string name="aht_20">aht_20</string>
+    <string name="bmp_180">bmp_180</string>
+    <string name="uv_light">uv_light</string>
+    <string name="ags">ags</string>
+    <string name="acetone">acetone</string>
+    <string name="h2">h2</string>
+    <string name="all_gases">all_gases</string>
+    <string name="full_system_check">full_system_check</string>
+    <string name="submit_test">Submit Test</string>
+</resources>
